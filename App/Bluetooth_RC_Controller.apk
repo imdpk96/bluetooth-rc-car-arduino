@@ -1,0 +1,19 @@
+
+#📲 Mobile App Control
+You can control the car using an Android app. Download the APK from the link below and install it on your phone:
+
+📥 Download App (.apk)
+👉 Bluetooth_RC_Controller.apk ( https://drive.google.com/file/d/1ZnJBs9KEpDzXy4m9lDPC9yLVbBipN98J/view?usp=sharing )
+
+Or, you can use any Bluetooth terminal app that sends simple character commands.
+
+🔤 Bluetooth Commands:
+F → Forward
+
+B → Backward
+
+L → Left
+
+R → Right
+
+S → Stop
